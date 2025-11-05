@@ -54,11 +54,8 @@ Frontend runs by default on: `http://localhost:5173`
 
 ---
 
-## 📸 Screenshots (optional)
 
-*Add screenshots or a demo GIF here if you want.*
 
----
 
 ## 👩‍💻 Author
 
